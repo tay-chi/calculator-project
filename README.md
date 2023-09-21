@@ -4,7 +4,7 @@
 
 ## Project time!
 
-We are going to rebuild the calculator on iOS! If you've never seen that before, here it is:
+We are going to rebuild the calculator using JavaScript! If you've never seen that before, here it is:
 
 Let's going over the requirements:
 
