@@ -8,7 +8,7 @@ We are going to rebuild the calculator on iOS! If you've never seen that before,
 
 Let's going over the requirements:
 
-1. The calculator should look like the above image
+1. Open the HTML file in your browers and take a look at the HTML and CSS files for the calculator.
 2. The calculator should function like a normal calculator
 3. Do not implement % or .. You can assume everything will be an integer.
 4. C means clear. When a user clicks it, it should clear everything and go back to the first state it was in when the page loaded.
